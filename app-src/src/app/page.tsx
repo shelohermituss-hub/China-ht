@@ -1,3 +1,4 @@
+'use client'
 import Link from 'next/link'
 import { CATEGORIES, VILLES_CHINE, USD_TO_HTG } from '@/lib/data'
 

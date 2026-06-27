@@ -1,3 +1,4 @@
+'use client'
 import Link from 'next/link'
 import { STATS_DASHBOARD, COMMANDES, TENDANCE_COMMANDES, CATEGORIES, formatUSD, formatHTG, USD_TO_HTG } from '@/lib/data'
 
